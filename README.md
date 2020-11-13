@@ -37,5 +37,9 @@ or
 ```js
 node start
 ```
+## stop the node server
 
+```sh
+ Ctrl+c hold CTrl and press c 
+```
 [HelpLink]: <https://dotlayer.com/how-to-install-and-configure-puppeteer-on-ubuntu-18-04-lts>
