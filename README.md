@@ -35,7 +35,7 @@ npm run start
 or 
 
 ```js
-node server
+node start
 ```
 
 [HelpLink]: <https://dotlayer.com/how-to-install-and-configure-puppeteer-on-ubuntu-18-04-lts>
