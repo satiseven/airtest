@@ -17,13 +17,13 @@ then we should change path to owr codes directory and run npm package manager fo
 npm install 
 ```
 
-# running the app before uploading new codes 14/12/2020
+# running the app before uploading new codes 14/11/2020
 
 ```js
 node server
 ```
 
-# running the app after  15/12/2020
+# running the app after  15/11/2020
 
 ```js
 npm run dev
